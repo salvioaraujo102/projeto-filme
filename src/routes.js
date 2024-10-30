@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Home from "./Home"
-import Filme from "./Filme";
-import Header from "../componets/Header";
+import Home from "./pages/Home";
+import Filme from "./pages/Filme";
+import Header from "./componets/Header";
 
 function RoutesApp(){
     return(

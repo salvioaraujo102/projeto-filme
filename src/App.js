@@ -1,5 +1,5 @@
 
-import RoutesApp from "./pages/routes";
+import RoutesApp from "./routes"
 
 function App() {
   return (
